@@ -52,7 +52,7 @@ a {
 
 .earth img {
     width: 100%;
-    height: auto;
+    height: 100%;
     display: block;
     
 }
@@ -98,7 +98,6 @@ a {
 }
 
 
-/* #myself */
 
 .skillstext {
     padding-bottom: 30px;
@@ -140,7 +139,7 @@ a {
 
 .section1 {
     font-size: 120%;
-    width: 430px;
+    width: 40%;
     height: 30px;
     border-radius: 30px;
     color: white;
@@ -174,18 +173,10 @@ a {
     width: 30%;
     background-color: black;
     text-align: center;
-    /* line-height: 30px; */
     text-decoration: none;
     color: white;
-    /* margin-bottom: 15px; */
     padding: 10px 0;
 }
-
-
-
-/* #contact hr+hr{
-    margin-top: 20px;
-} */
 
 .item4 {
     font-size: small;
@@ -211,16 +202,17 @@ textarea {
 }
 
 textarea {
+    width: 80%;
     margin-bottom: 20px;
 }
 
 #back {
     margin: 10px 0;
     display: inline-block;
-    width: 440px;
+    width: 30%;
     background-color: black;
     text-align: center;
-    line-height: 20px;
+    line-height: 22px;
     text-decoration: none;
     color: white;
 
